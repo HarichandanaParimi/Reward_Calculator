@@ -1,0 +1,48 @@
+[
+  {
+    "reference": "T1",
+    "customerID": "customerID1",
+    "amount": 500,
+    "transactionDate": "2020-06-10"
+  },{
+    "reference": "T2",
+    "customerID": "customerID1",
+    "amount": 1500,
+    "transactionDate": "2020-07-20"
+  },{
+    "reference": "T3",
+    "customerID": "customerID1",
+    "amount": 800,
+    "transactionDate": "2020-08-20"
+  },{
+    "reference": "T4",
+    "customerID": "customerID2",
+    "amount": 1000,
+    "transactionDate": "2020-06-23"
+  }, {
+    "reference": "T5",
+    "customerID": "customerID2",
+    "amount": 120,
+    "transactionDate": "2020-07-12"
+  },{
+    "reference": "T6",
+    "customerID": "customerID2",
+    "amount": 1120,
+    "transactionDate": "2020-08-22"
+  },{
+    "reference": "T7",
+    "customerID": "customerID3",
+    "amount": 800,
+    "transactionDate": "2020-07-24"
+  }, {
+    "reference": "T8",
+    "customerID": "customerID4",
+    "amount": 1800,
+    "transactionDate": "2020-08-08"
+  }, {
+    "reference": "T9",
+    "customerID": "customerID4",
+    "amount": 2000,
+    "transactionDate": "2020-07-10"
+  } 
+]
